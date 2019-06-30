@@ -1,0 +1,797 @@
+C:\Kakuro_2\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Kakuro_2\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Kakuro_2\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Kakuro_2\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Kakuro_2\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+D:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+D:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+D:\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+D:\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+D:\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of last stable version Kakuro!!!!!!!!!!!!!!!!\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\09.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\09.03_evneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\12.03 morneeng\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\16.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\17.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\18.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\kakuro21\19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\Copy of 19.03\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.1\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.2\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\Copy of 23.3.3\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.4\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.5\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.6\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.7\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\Copy of 23.3.8\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.9\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.10\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.12\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.13\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.14\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.15\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.16\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.17\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.18\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.19\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.20\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.21\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.22\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.23\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.24\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.25\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.26\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.27\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+F:\prog\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+D:\Documents and Settings\ljubo\Desktop\23.3.28\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\bin\Debug\Kakuro_2.xml
+D:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.exe
+D:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.xml
+D:\Users\ljubo\Desktop\Kakuro_3\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\ljubo\Desktop\ZAVRSNI\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.pdb
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.exe
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.pdb
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\bin\Debug\Kakuro_2.xml
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form1.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form2.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form3.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form4.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form5.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form6.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Form7.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.Resources.resources
+C:\Users\john\Desktop\Projekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.vbproj.GenerateResource.Cache
+C:\Users\dev\Desktop\VSProjekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.exe
+C:\Users\dev\Desktop\VSProjekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.xml
+C:\Users\dev\Desktop\VSProjekti\Kakuro_3_1\Kakuro_2\obj\Debug\Kakuro_2.pdb
