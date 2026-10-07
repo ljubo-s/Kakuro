@@ -1,6 +1,6 @@
 # Kakuro
 
-Place the images folder and the exe file to the same location and start.
+Place the images(bin/Debug/pictures) folder and the exe file(bin/Debug/Kakuro_2.exe) to the same location and start.
 <br><br>
 <img src="https://user-images.githubusercontent.com/50277204/122932534-1e1ccf80-d36e-11eb-9e34-5a185aae2b36.png" width="200" height="400">
 
